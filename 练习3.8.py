@@ -1,0 +1,12 @@
+tour=['chongqing','zhejiang','suzhou','hunan','yunan','shandong']
+print(sorted(tour))
+print(sorted(tour,reverse=True))
+print(tour)
+tour.reverse()
+print(tour)
+tour.reverse()
+print(tour)
+tour.sort()
+print(tour)
+tour.sort(reverse=True)
+print(tour)
