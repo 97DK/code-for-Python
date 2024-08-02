@@ -1,0 +1,3 @@
+In Python you can print hello world
+In Python you can use function
+In Python you can learn some knowledge
